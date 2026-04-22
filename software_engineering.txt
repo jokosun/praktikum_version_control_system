@@ -1,0 +1,5 @@
+# Rencana belajar Software Engineering
+1. Planning
+2. Analysis
+3. Development
+4. Implementation
