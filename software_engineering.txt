@@ -1,6 +1,7 @@
 # Rencana belajar Software Engineering
 1. Planning
+  1.1. System Request
+  1.2. Feasibility Analysis
 2. Analysis
 3. Development
 4. Implementation
-5. Maintenance
